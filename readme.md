@@ -105,8 +105,7 @@ Retrieves all meetings from the database.
 Handles command-line arguments to schedule and list meetings.
 
 
-PROJECT OUTPUT PICTURE WITH MULTIPLE USECASES ATTACHED IN THE SAME WORKING FOLDER.
-
+PROJECT OUTPUT PICTURE WITH MULTIPLE USECASES ATTACHED IN THE SAME WORKING FOLDER (IMAGE.png)
 
 #######################################################################################################################################
                                                     THANK YOU     
